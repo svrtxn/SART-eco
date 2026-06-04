@@ -1,34 +1,35 @@
 <div align="center">
-  <img height="150" src="https://i.postimg.cc/j5jXB3Lp/animadoo.gif" />
+  <img height="150" src="https://i.postimg.cc/j5jXB3Lp/animadoo.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <h1>SART-Eco</h1>
-  <p>
-    Plataforma inteligente de gestión financiera personal diseñada para centralizar,
-    analizar y optimizar las finanzas mediante automatización, Open Banking e
-    inteligencia artificial.
-  </p>
+  <a href="https://www.linkedin.com/in/steffi-ryser-troncoso/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="svrtxn" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=@svrtxn&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="paypal logo"  />
 </div>
 
 ---
@@ -129,22 +130,11 @@ Diseñado bajo una filosofía **Security First**.
 - Reportes básicos
 - IA inicial
 
-### Próximas versiones
-
-- Open Banking
-- Sincronización inteligente de correos
-- Detección automática de suscripciones
-- Automatizaciones
-- Predicciones financieras
-- Detección de fraude
-
 ---
 
 ## Estado del Proyecto
 
-**En desarrollo activo.**
-
-La arquitectura está diseñada para evolucionar desde una aplicación financiera personal hasta una plataforma fintech escalable y preparada para entornos de producción.
+**🟡 En desarrollo**
 
 ---
 
