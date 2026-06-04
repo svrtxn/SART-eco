@@ -1,430 +1,152 @@
-# Sart-Eco
+<div align="center">
+  <img height="150" src="https://i.postimg.cc/j5jXB3Lp/animadoo.gif" />
+</div>
 
-Plataforma inteligente de gestión financiera personal diseñada para centralizar, analizar y optimizar todas las finanzas de una persona desde múltiples fuentes de información.
+<div align="center">
 
----
+# 💰 SART-Eco
 
-# Descripción
+### Plataforma inteligente de gestión financiera personal
 
-**Sart-Eco** es una plataforma fintech personal que permite consolidar información financiera proveniente de bancos, correos electrónicos, tarjetas, inversiones y registros manuales en un único ecosistema inteligente.
+Centraliza, analiza y optimiza tus finanzas mediante automatización, Open Banking e Inteligencia Artificial.
 
-Su objetivo es entregar una visión financiera completa mediante automatización, inteligencia artificial y análisis avanzado de datos.
-
-La plataforma permite:
-
-* Centralizar ingresos y gastos.
-* Detectar movimientos automáticamente.
-* Administrar bancos y tarjetas.
-* Analizar hábitos financieros.
-* Controlar presupuestos.
-* Gestionar metas de ahorro.
-* Detectar suscripciones recurrentes.
-* Generar reportes avanzados.
-* Obtener recomendaciones financieras mediante IA.
+</div>
 
 ---
 
-# Visión
-
-Convertirse en el centro financiero personal más completo e inteligente para cualquier usuario, permitiendo tomar mejores decisiones económicas mediante automatización, análisis e inteligencia artificial.
-
----
-
-# Objetivos Principales
-
-* Centralizar todas las finanzas en una única plataforma.
-* Automatizar la captura de movimientos financieros.
-* Reducir el ingreso manual de información.
-* Entregar visibilidad financiera en tiempo real.
-* Detectar gastos innecesarios.
-* Mejorar hábitos financieros.
-* Facilitar el ahorro y el cumplimiento de metas.
-* Generar reportes financieros inteligentes.
-* Proporcionar recomendaciones personalizadas mediante IA.
-
----
-
-# Funcionalidades Principales
-
-## Dashboard Financiero Inteligente
-
-Visualización consolidada de:
-
-* Patrimonio total.
-* Balance consolidado.
-* Ingresos mensuales.
-* Gastos mensuales.
-* Flujo de caja.
-* Evolución financiera.
-* Distribución por categorías.
-* Metas financieras.
-* Inversiones.
-* Deudas.
-* Suscripciones activas.
-* Alertas importantes.
-* Insights generados por IA.
-
-Dashboard completamente configurable mediante widgets.
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" />
+</div>
 
 ---
 
-## Integración con Correos Electrónicos
+## 🚀 ¿Qué es SART-Eco?
 
-Compatible con:
+**SART-Eco** es una plataforma fintech personal diseñada para consolidar toda la información financiera de un usuario en un único ecosistema inteligente.
 
-* Gmail
-* Outlook
-* Microsoft 365
-* Yahoo Mail
-
-Permite:
-
-* Escaneo histórico.
-* Sincronización automática.
-* Procesamiento continuo.
-* Detección de movimientos financieros.
-* Clasificación automática mediante IA.
+Permite conectar bancos, tarjetas, correos electrónicos, inversiones y registros manuales para ofrecer una visión financiera completa en tiempo real.
 
 ---
 
-## Integración Bancaria
+## ✨ Características principales
 
-Soporte para:
-
-* APIs bancarias.
-* Open Banking.
-* Agregadores financieros.
-* Importaciones manuales.
-
-Permite:
-
-* Agregar bancos.
-* Eliminar bancos.
-* Configurar sincronización.
-* Gestionar múltiples cuentas.
+- 💳 Gestión de bancos y tarjetas.
+- 📊 Dashboard financiero inteligente.
+- 💰 Control de ingresos y gastos.
+- 🎯 Metas de ahorro.
+- 📅 Presupuestos y planificación financiera.
+- 🔄 Detección automática de suscripciones.
+- 📧 Integración con Gmail y Outlook.
+- 🤖 Asistente financiero impulsado por IA.
+- 📈 Reportes y análisis avanzados.
+- 🔔 Alertas y recomendaciones personalizadas.
 
 ---
 
-## Gestión de Cuentas
+## 🧠 Inteligencia Artificial
 
-Tipos soportados:
+SART-Eco incorpora IA para:
 
-* Cuenta Corriente.
-* Cuenta Vista.
-* Cuenta Ahorro.
-* Cuenta Digital.
-* Cuenta de Inversión.
-
----
-
-## Gestión de Tarjetas
-
-Tipos soportados:
-
-* Crédito.
-* Débito.
-* Prepago.
-
-Características:
-
-* Identificación automática mediante BIN Lookup.
-* Detección de banco emisor.
-* Detección de marca.
-* Detección de categoría.
-* Administración de cupos.
-* Seguimiento de utilización.
+- Analizar hábitos financieros.
+- Detectar gastos innecesarios.
+- Generar insights automáticos.
+- Identificar patrones de consumo.
+- Crear recomendaciones personalizadas.
+- Realizar predicciones financieras.
 
 ---
 
-## Centro de Transacciones
+## 🏗️ Arquitectura
 
-Funciones avanzadas:
+### Frontend
 
-* Búsqueda global.
-* Filtros dinámicos.
-* Clasificación automática.
-* Etiquetas personalizadas.
-* Edición de movimientos.
-* Agrupación de transacciones.
-* División de movimientos.
-* Exportación de datos.
+- Angular 20+
+- TypeScript
+- Angular Signals
+- RxJS
+- Angular Material
+- TailwindCSS
+- PWA
+- SSR
 
----
+### Backend
 
-## Presupuestos
+- NestJS
+- TypeScript
 
-Permite:
+### Infraestructura
 
-* Presupuestos mensuales.
-* Presupuestos anuales.
-* Presupuestos por categoría.
-
-Incluye:
-
-* Alertas automáticas.
-* Proyecciones de gasto.
-* Indicadores de riesgo.
-
----
-
-## Metas Financieras
-
-Creación de objetivos como:
-
-* Fondo de emergencia.
-* Viajes.
-* Vehículos.
-* Vivienda.
-* Jubilación.
-* Objetivos personalizados.
-
-Con seguimiento visual y estimaciones automáticas.
+- PostgreSQL
+- Redis
+- RabbitMQ
+- Docker
+- Kubernetes
+- AWS
+- OpenAI
 
 ---
 
-## Detector de Suscripciones
+## 🔒 Seguridad
 
-Detecta automáticamente:
+Diseñado bajo una filosofía **Security First**.
 
-* Netflix
-* Spotify
-* Disney+
-* Amazon Prime
-* SaaS
-* Membresías
-
-Muestra:
-
-* Costo mensual.
-* Costo anual.
-* Próximos cobros.
-* Variaciones de precio.
+- OAuth2 & OpenID Connect
+- JWT + Refresh Tokens
+- MFA
+- AES-256
+- TLS 1.3
+- Protección XSS / CSRF
+- Rate Limiting
+- Auditoría completa de eventos
 
 ---
 
-## Asistente Financiero con IA
+## 🛣️ Roadmap
 
-Permite realizar consultas como:
+### MVP
 
-* ¿En qué gasté más este mes?
-* ¿Qué categoría aumentó más?
-* ¿Cuánto gasto en restaurantes?
-* ¿Qué gastos puedo reducir?
-* ¿Qué suscripciones no utilizo?
+- Autenticación
+- Dashboard
+- Bancos y cuentas
+- Tarjetas
+- Transacciones
+- Importación CSV
+- Reportes básicos
+- IA inicial
 
-Genera:
+### Próximamente
 
-* Insights financieros.
-* Alertas.
-* Recomendaciones.
-* Predicciones.
-* Resúmenes automáticos.
-
----
-
-## Reportes
-
-Exportación en:
-
-* PDF
-* Excel
-* CSV
-
-Reportes:
-
-* Mensuales.
-* Trimestrales.
-* Anuales.
-* Personalizados.
+- Open Banking
+- Escaneo inteligente de correos
+- Detección automática de suscripciones
+- Predicciones financieras
+- Automatizaciones avanzadas
+- Detección de fraude
 
 ---
 
-# Arquitectura Tecnológica
-
-## Frontend
-
-* Angular 20+
-* TypeScript
-* Angular Signals
-* RxJS
-* Angular Material
-* TailwindCSS
-* Angular CDK
-* PWA
-* SSR
-
-## Backend
-
-* NestJS
-* TypeScript
-
-## Base de Datos
-
-* PostgreSQL
-
-## Cache
-
-* Redis
-
-## Mensajería
-
-* RabbitMQ
-
-## Inteligencia Artificial
-
-* OpenAI
-
-## Infraestructura
-
-* Docker
-* Kubernetes
-* AWS
-
----
-
-# Seguridad
-
-Sart-Eco fue diseñado bajo un enfoque Security First.
-
-## Autenticación
-
-* OAuth2
-* OpenID Connect
-* JWT
-* Refresh Tokens
-* MFA
-
-## Protección
-
-* AES-256
-* TLS 1.3
-* CSP
-* XSS Protection
-* CSRF Protection
-* SQL Injection Protection
-* Secrets Management
-* Rate Limiting
-
-## Auditoría
-
-Registro completo de:
-
-* Inicios de sesión.
-* Conexiones bancarias.
-* Sincronizaciones.
-* Cambios de configuración.
-* Acciones administrativas.
-
----
-
-# Módulos
-
-```text
-Dashboard
-Transactions
-Banks
-Accounts
-Cards
-Budgets
-Goals
-Subscriptions
-Reports
-AI Assistant
-Notifications
-Profile
-Settings
-Administration
-Email Sync
-Audit
-Security
-```
-
-# Estructura del Proyecto
-
-```text
-src/
-
-core/
-shared/
-layouts/
-features/
-
-features/
-├── dashboard
-├── transactions
-├── banks
-├── accounts
-├── cards
-├── budgets
-├── goals
-├── subscriptions
-├── reports
-├── ai-assistant
-├── notifications
-├── settings
-├── profile
-└── admin
-
-services/
-models/
-guards/
-interceptors/
-state/
-utils/
-```
-
-# Roadmap
-
-## MVP
-
-* Autenticación.
-* Dashboard.
-* Bancos.
-* Cuentas.
-* Tarjetas.
-* Transacciones.
-* Importación CSV.
-* Reportes básicos.
-* IA básica.
-
-## Versión Avanzada
-
-* Escaneo inteligente de correos.
-* Integración Open Banking.
-* IA avanzada.
-* Predicciones financieras.
-* Detección automática de suscripciones.
-* Automatizaciones.
-
-## Enterprise
-
-* Multiusuario.
-* Equipos familiares.
-* Contadores externos.
-* Auditorías avanzadas.
-* Machine Learning personalizado.
-* Detección de fraude.
-* Integraciones financieras globales.
-
----
-
-# Principios del Proyecto
-
-Sart-Eco se construye sobre seis pilares fundamentales:
-
-1. Seguridad.
-2. Privacidad.
-3. Precisión.
-4. Automatización.
-5. Escalabilidad.
-6. Inteligencia Financiera.
-
-Cada funcionalidad debe aportar valor real al usuario y ayudarle a comprender mejor su situación financiera.
-
----
-
-# Estado del Proyecto
+## 📌 Estado
 
 🚧 En desarrollo activo.
 
-Arquitectura orientada a producción, preparada para escalar desde usuarios individuales hasta una plataforma fintech de nivel empresarial.
+Arquitectura preparada para evolucionar desde una aplicación financiera personal hasta una plataforma fintech escalable de nivel empresarial.
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=503eda" />
+</div>
